@@ -16,7 +16,7 @@ $ The main language is Dart, a geek who knows a little bit about everything. I a
 | [![Systems](https://skillicons.dev/icons?i=linux,windows&perline=4)](https://skillicons.dev) | [![Tools](https://skillicons.dev/icons?i=androidstudio,vscode,cmake,eclipse,git,github,md,notion,npm&perline=4)](https://skillicons.dev) | [![Design Tools](https://skillicons.dev/icons?i=figma,ps,latex,xd&perline=4)](https://skillicons.dev) | [![Programming Languages](https://skillicons.dev/icons?i=flutter,dart,java,js,ts,python,opencv&perline=4)](https://skillicons.dev) |
 
 ## :microscope: Now i learning 
-[![Learning](https://skillicons.dev/icons?i=ts,opencv,react,nextjs&theme=light)](https://skillicons.dev) 
+[![Learning](https://skillicons.dev/icons?i=ts,opencv,react,nextjs,obsidian&theme=light)](https://skillicons.dev) 
 
 ## :bar_chart: activity graph/cards 
 [![Yonndo-o's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yonndo-o&theme=nightowl)](https://github.com/ashutosh00710/github-readme-activity-graph) 
